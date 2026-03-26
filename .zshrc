@@ -116,5 +116,9 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #
 alias soft='cd Documents/soft'
+alias bbt="/Users/frederikj/Documents/coding_projects/black_box_tester/black-box-tester.sh"
+alias home="cd ~"
+alias work="cd Documents/work"
+
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
